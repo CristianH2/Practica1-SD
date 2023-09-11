@@ -142,7 +142,7 @@ int main(int argc, char* argv[]){
     printf("\n Tamaño de matriz %d*%d",n,n);
 	printf("\n Tiempo método jki: %f s\n", (E1-S1));
 
-	// Método(5) j i k
+	// Método(6) j i k
 	get_walltime(&S1);
 
 	for(j=0; j<n; ++j)
