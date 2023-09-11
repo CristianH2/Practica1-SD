@@ -1,4 +1,4 @@
-# Practica1-SD
+# Práctica 1 - Sistemas Distribuidos
 El programa realiza una multiplicación de matrices y obtiene el tiempo que tarda su ejecución.  
   
   El orden de los ciclos for son los siguientes.
